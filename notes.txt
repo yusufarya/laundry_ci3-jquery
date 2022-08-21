@@ -1,0 +1,19 @@
+customer input jenis barang dan menunggu pesanan di terima.
+next, setelah diterima oleh admin, admin memilih driver untuk menjemput pesanan.
+dan setelah driver sampai pada customer, driver akan menginput data barang yg di-
+serahkan oleh customer, yaitu mulai dari qty harga dll.
+
+next customer akan mengetahui rincian pembayaran dari total harga yg akan dia bayar
+
+Tabel Pesanan
+Column = status
+Y = ACC oleh Admin
+D = Penjemputan (ACC Driver)
+P = Proses laundry
+A = Pengantaran
+S = Selesai
+
+Tabel pesanan
+Column = bayar
+Y = Sudah bayar
+YY = Sudah bayar dan sudah mengirim bukti pembayaran
